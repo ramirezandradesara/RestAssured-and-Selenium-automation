@@ -6,12 +6,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class PageOpenNewAccount extends BasePage{
-    /*By searchBar = By.xpath("//*[@id=\"search\"]/input");
-    By lupa =  By.xpath("//*[@id=\"search\"]/span");
-
-    By addToCartButton = By.xpath("//*[@id=\"content\"]/div[3]/div/div/div[2]/div[2]/button[1]");
-
-    By success = By.xpath("//*[@id=\"product-search\"]/div[1]");*/
 
     By inputUsername = By.xpath("//*[@id=\"loginPanel\"]/form/div[1]/input");
     By inputPassword = By.xpath("//*[@id=\"loginPanel\"]/form/div[2]/input");

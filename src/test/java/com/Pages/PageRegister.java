@@ -45,7 +45,7 @@ public class PageRegister extends BasePage {
 		teclear("319-758-8875",phone);
 		teclear("008-01-1926",ssn);
 
-		teclear("mob313",username);
+		teclear("mob3131",username);
 		teclear("123123",password);
 		teclear("123123",rePassword);
 
