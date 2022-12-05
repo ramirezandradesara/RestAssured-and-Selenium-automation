@@ -1,0 +1,7 @@
+com\Tests\TestCart.class
+com\Reports\ExtentReport.class
+com\Base\BasePage.class
+com\Pages\PageCart.class
+com\Pages\PageRegister.class
+com\Tests\TestRegister.class
+com\Tests\AllTests.class
